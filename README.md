@@ -1,5 +1,5 @@
 # snuslookup
-<img align="center" src="https://media.discordapp.net/attachments/1283853752000053380/1295568148363350026/image.png?ex=670f1f5d&is=670dcddd&hm=cf41f2691fb848040986ad382d6b45e0afd56f129c6d460a665dbbde28cb2d4e&=&format=webp&quality=lossless&width=680&height=500">
+![snus](https://media.discordapp.net/attachments/1283853752000053380/1295568148363350026/image.png?ex=670f1f5d&is=670dcddd&hm=cf41f2691fb848040986ad382d6b45e0afd56f129c6d460a665dbbde28cb2d4e&=&format=webp&quality=lossless&width=680&height=500)
 a simple script in python to make requests to the snusbase api
 [snusbase](https://snusbase.com/) is a very powerful site containing over 10 bilion records 
 # requierements
