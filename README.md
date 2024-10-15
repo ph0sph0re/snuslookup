@@ -11,7 +11,8 @@ a simple script in python to make requests to the snusbase api
 git clone https://github.com/ph0sph0re/snuslookup/
 cd snuslookup
 pip install requests
-# Usage
+# 
+edit SnusLookup and put ur api into API_KEY = 'YOURAPIKEY'
 make sure you're in the right folder and enter in your terminal
 python SnusLookup.py
 ``` 
