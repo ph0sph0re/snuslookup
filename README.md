@@ -1,5 +1,5 @@
 # snuslookup
-!<a href="https://ibb.co/jf6gP1B"><img src="https://i.ibb.co/jf6gP1B/Copie-d-cran-20241117-214253.png" alt="Copie-d-cran-20241117-214253" border="0"></a>
+[![Copie-d-cran-20241117-214253.png](https://i.postimg.cc/3JXZb3vY/Copie-d-cran-20241117-214253.png)](https://postimg.cc/ZCq3WtHM)
 
 a simple script in python to make requests to the snusbase api
 [snusbase](https://snusbase.com/) is a very powerful site containing over 10 bilion records 
